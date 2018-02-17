@@ -1,6 +1,6 @@
 Product Backlog
 
-__Theme: Elimintating knowlege gaps__
+__Theme: Eliminating knowlege gaps__
 - Languages
  - Learn Ruby the Hard Way
  - Free Code Camp
