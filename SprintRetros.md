@@ -264,7 +264,7 @@ Actions:
 3. Do chores early and often.
 4. Break stories into requirements when time is low
 
-__Sprint 1 - 7/31/16 - 8/6/13__
+__Sprint 1 - 7/31/16 - 8/6/16__
 
 I seem to think that "Do a problem from Learn Python the Hard Way" or "Apply for a job" is an activity that takes 0 time. That just ain't so. I'm going to have to get used to the idea that nothing takes 0 time.
 
